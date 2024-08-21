@@ -1,5 +1,5 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:VisualElement style="flex-grow: initial; background-color: rgb(33, 79, 241); width: 50px; height: 50px; align-self: center; margin-top: 30px;">
-        <ui:Label tabindex="-1" text="0" display-tooltip-when-elided="true" name="pontos" style="color: rgb(255, 255, 255); align-self: center; align-items: center; justify-content: center; -unity-font-style: bold;" />
+    <ui:VisualElement style="flex-grow: initial; background-color: rgba(0, 0, 0, 0.39); width: 50px; height: 50px; align-self: center; margin-top: 30px; border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; align-items: center; justify-content: center;">
+        <ui:Label tabindex="-1" text="0" display-tooltip-when-elided="true" name="pontos" style="color: rgb(255, 255, 255); align-self: center; align-items: center; justify-content: center; -unity-font-style: bold; font-size: 45px; -unity-text-align: middle-center; width: 31px; -unity-text-outline-width: 1px; -unity-text-outline-color: rgb(255, 255, 255); -unity-font: url(&apos;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&apos;); white-space: nowrap;" />
     </ui:VisualElement>
 </ui:UXML>
